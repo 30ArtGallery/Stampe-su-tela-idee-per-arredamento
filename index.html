@@ -14,19 +14,39 @@
     <style>
         body { background-color: #ffffff; color: #1a1a1a; font-family: 'Montserrat', sans-serif; margin: 0; padding: 0; overflow-x: hidden; }
         
-        /* Copertina Hero */
+           /* Copertina Hero Proporzionale su Sfondo Bianco */
         .hero { 
             position: relative;
-            height: 80vh;
-            background: url('https://i.ebayimg.com/images/g/fOcAAOSwx8NfwjOa/s-l1600.webp') no-repeat center center;
-            background-size: cover;
+            width: 100%;
+            aspect-ratio: 16 / 9; 
+            background: #ffffff url('https://i.ebayimg.com') no-repeat center center;
+            background-size: contain; /* L'immagine resta intera, il resto è bianco */
             display: flex;
             align-items: center;
             justify-content: center;
             flex-direction: column;
-            color: white;
+            color: #1a1a1a; /* Testo scuro per leggibilità su bianco */
             text-align: center;
+        }    
+        /* Rimuoviamo l'oscuramento nero precedente per pulizia */
+        .hero::before {
+            display: none; 
         }
+
+        .hero-content { 
+            position: relative; 
+            z-index: 1; 
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.6); /* Leggero velo per leggere il testo sopra la foto */
+            border-radius: 2px;
+        }
+
+        /* Bottone scuro per staccare dal bianco */
+        .hero .main-btn {
+            background-color: #1a1a1a;
+            color: #ffffff;
+        }
+
         .hero::before {
             content: '';
             position: absolute;
