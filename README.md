@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.ebay.it" style="text-decoration:none;">
+  <a href="https://www.ebay.it/str/italianmodernart2009/" style="text-decoration:none;">
     <kbd style="background-color: #1a1a1a; color: #ffffff; padding: 10px 20px; border-radius: 5px; border: 1px solid #333;">
       ENTRA NEL CATALOGO UFFICIALE EBAY
     </kbd>
