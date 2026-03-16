@@ -8,12 +8,13 @@
     <style>
         body { background-color: #ffffff; color: #1a1a1a; font-family: 'Montserrat', sans-serif; margin: 0; padding: 0; overflow-x: hidden; }
         
-        /* Copertina Hero */
+             /* Copertina Hero Proporzionale */
         .hero { 
             position: relative;
-            height: 80vh;
-            background: url('https://i.ebayimg.com/images/g/fOcAAOSwx8NfwjOa/s-l1600.webp') no-repeat center center;
-            background-size: cover;
+            width: 100%;
+            aspect-ratio: 16 / 9; /* Mantiene le proporzioni classiche delle foto */
+            background: #000 url('https://i.ebayimg.com/images/g/fOcAAOSwx8NfwjOa/s-l1600.webp') no-repeat center center;
+            background-size: contain; /* L'immagine si adatta senza mai essere ritagliata */
             display: flex;
             align-items: center;
             justify-content: center;
