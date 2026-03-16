@@ -1,50 +1,47 @@
-# 🏛️ 30ArtGallery | Home Decor & Stampe su Tela
-> **L'arte che trasforma i tuoi spazi. Direttamente dal nostro laboratorio alle tue pareti.**
+# 🏛️ Italian_Modern_Art_2009 | Fine Art on Canvas
+> **L'eccellenza della stampa su tela: collezioni esclusive, qualità artigianale e design italiano.**
 
 ---
 
 <p align="center">
-  <br>
-  <a href="URL_HOME_NEGOZIO_EBAY">
+  <a href="https://www.ebay.it">
     <img src="https://img.shields.io" height="40">
   </a>
   <br>
-  <i>Sfoglia il catalogo completo con oltre 100+ design esclusivi</i>
+  <b>Oltre 1000+ opere d'arte pronte per trasformare i tuoi spazi.</b>
 </p>
 
 ---
 
-## 🖼️ Collezioni in Evidenza
-*Scegli lo stile perfetto per il tuo soggiorno, ufficio o camera da letto.*
+## 📂 Esplora le Nostre Collezioni
+*Seleziona una categoria per visualizzare le opere e i link diretti all'acquisto su eBay.*
 
 
-| 🎨 **Astratti e Moderni** | 🌿 **Natura e Paesaggi** | 🏙️ **Urban & Street Art** |
-| :---: | :---: | :---: |
-| <img src="URL_FOTO_PRODOTTO_1" width="250px"> | <img src="URL_FOTO_PRODOTTO_2" width="250px"> | <img src="URL_FOTO_PRODOTTO_3" width="250px"> |
-| [🛒 Acquista su eBay](URL_INSERZIONE_1) | [🛒 Acquista su eBay](URL_INSERZIONE_2) | [🛒 Acquista su eBay](URL_INSERZIONE_3) |
+| 🎨 **STILI E TEMI** | 🏙️ **AMBIENTI E CITTÀ** | 🏛️ **ARTISTI FAMOSI** |
+| :--- | :--- | :--- |
+| 🌀 [Astratti](astratti.md) | 🏙️ [Città del Mondo](citta.md) | 👨‍🎨 [Tutti i Grandi Maestri](artisti.md) |
+| 🏎️ [Motori & Sport](motori.md) | 🌿 [Paesaggi e Natura](paesaggi.md) | 🖼️ [Pop Art](pop-art.md) |
+| 🎸 [Musica](musica.md) | 🌸 [Fiori e Piante](fiori.md) | 📐 [Bauhaus](bauhaus.md) |
+| 🐾 [Animali](animali.md) | 🏮 [Etnici e Africani](etnici.md) | 🎭 [Cinema e Celebrità](cinema.md) |
+| 🧘 [Zen e Sacri](zen.md) | 🍹 [Cocktail e Food](food.md) | 🧸 [Cartoon e Bimbi](bimbi.md) |
+
+---
+
+## 👨‍🎨 I Grandi Maestri della Pittura
+*Le opere iconiche riprodotte su tela di alta qualità.*
+
+> **[Vincent van Gogh](artisti.md#van-gogh) • [Gustav Klimt](artisti.md#klimt) • [Claude Monet](artisti.md#monet) • [Banksy](artisti.md#banksy) • [Leonardo da Vinci](artisti.md#da-vinci) • [Salvador Dalì](artisti.md#dali) • [Andy Warhol](artisti.md#warhol)**
+>
+> 👉 *[Sfoglia l'elenco completo degli oltre 40 artisti disponibili](artisti.md)*
 
 ---
 
-## ✨ Perché 30ArtGallery?
-* **Qualità Premium:** Tele in cotone 100% e telai in legno massello artigianali.
-* **Colori Brillanti:** Stampa ad alta risoluzione con inchiostri ecologici anti-sbiadimento.
-* **Pronti da Appendere:** Ogni tela arriva già montata e pronta per decorare la tua casa.
-* **Spedizione Sicura:** Imballaggi rinforzati per garantire l'integrità del tuo acquisto.
-
----
+## ✨ Perché scegliere Italian_Modern_Art_2009?
+- **Stampa HD:** Colori brillanti e inchiostri resistenti nel tempo.
+- **Telaio in Legno:** Ogni tela è montata artigianalmente su telai pronti da appendere.
+- **Spedizione Sicura:** Imballaggi rinforzati per una protezione totale.
 
 <p align="center">
-  <h3>🌟 Sei un utente GitHub?</h3>
-  Sostieni il nostro progetto artistico mettendo una <b>⭐ Star</b> a questo repository!<br>
-  Riceverai aggiornamenti sulle nuove collezioni e promozioni riservate.
-</p>
-
----
-
-<p align="center">
-  <a href="URL_HOME_NEGOZIO_EBAY">
-    <b>[ VAI ALLA HOME DEL NEGOZIO EBAY ]</b>
-  </a>
-  <br><br>
-  <i>© 2024 30ArtGallery - Qualità e Design per la tua casa.</i>
+  <br>
+  <a href="https://www.ebay.it"><b>[ VAI AL CATALOGO COMPLETO SU EBAY ]</b></a>
 </p>
