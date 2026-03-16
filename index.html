@@ -14,38 +14,40 @@
     <style>
         body { background-color: #ffffff; color: #1a1a1a; font-family: 'Montserrat', sans-serif; margin: 0; padding: 0; overflow-x: hidden; }
         
-           /* Copertina Hero Proporzionale su Sfondo Bianco */
+        /* Copertina Hero Ripristinata e Proporzionale */
         .hero { 
             position: relative;
             width: 100%;
-            aspect-ratio: 16 / 9; 
+            min-height: 450px; /* Altezza minima di sicurezza per non farla sparire */
+            height: 70vh; /* Occupa il 70% dell'altezza schermo */
             background: #ffffff url('https://i.ebayimg.com') no-repeat center center;
-            background-size: contain; /* L'immagine resta intera, il resto è bianco */
+            background-size: contain; /* Immagine intera, spazi bianchi ai lati */
             display: flex;
             align-items: center;
             justify-content: center;
-            flex-direction: column;
-            color: #1a1a1a; /* Testo scuro per leggibilità su bianco */
             text-align: center;
-        }    
-        /* Rimuoviamo l'oscuramento nero precedente per pulizia */
-        .hero::before {
-            display: none; 
         }
 
         .hero-content { 
             position: relative; 
-            z-index: 1; 
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.6); /* Leggero velo per leggere il testo sopra la foto */
-            border-radius: 2px;
+            z-index: 2; 
+            padding: 30px;
+            background: rgba(255, 255, 255, 0.8); /* Box bianco elegante semitrasparente */
+            border: 1px solid #eee;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
         }
 
-        /* Bottone scuro per staccare dal bianco */
-        .hero .main-btn {
-            background-color: #1a1a1a;
-            color: #ffffff;
+        /* Testo scuro per leggere su sfondo bianco */
+        .hero h1 { color: #1a1a1a !important; font-family: 'Playfair Display', serif; font-size: 2.8rem; letter-spacing: 4px; text-transform: uppercase; margin: 0; }
+        .hero .tagline { color: #666 !important; font-size: 0.9rem; letter-spacing: 3px; margin-top: 15px; text-transform: uppercase; }
+
+        .main-btn { 
+            display: inline-block; margin-top: 30px; padding: 18px 45px; 
+            background-color: #1a1a1a; color: #ffffff; 
+            text-decoration: none; font-size: 0.8rem; letter-spacing: 2px; 
+            transition: 0.4s; font-weight: 600; text-transform: uppercase;
         }
+
 
         .hero::before {
             content: '';
