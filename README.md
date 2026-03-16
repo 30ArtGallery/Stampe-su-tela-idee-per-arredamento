@@ -31,7 +31,7 @@
   <tr style="border:none;">
     <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Pop-Art/_i.html?store_cat=38640158017" style="text-decoration:none; color:#333;">POP ART</a></td>
     <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Cinema-e-Celebrita/_i.html?store_cat=31311587017" style="text-decoration:none; color:#333;">CINEMA</a></td>
-    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Bauhaus/_i.html?store_cat=39022460017)" style="text-decoration:none; color:#333;">BAUHAUS</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Banksy/_i.html?store_cat=31311625017" style="text-decoration:none; color:#333;">BAUHAUS</a></td>
   </tr>
 </table>
 
