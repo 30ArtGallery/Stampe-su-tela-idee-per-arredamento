@@ -42,12 +42,12 @@
 
 <p style="line-height: 2.0;">
 <a href="https://www.ebay.it/str/italianmodernart2009/Banksy/_i.html?store_cat=31311625017" style="text-decoration:none; color:#555;">BANKSY</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">KLIMT</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">MONET</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">VAN GOGH</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">DALI</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">WARHOL</a> • 
-<a href="artisti.md" style="text-decoration:none; color:#555;">PICASSO</a>
+<a href="https://www.ebay.it/str/italianmodernart2009/Gustav-Klimt/_i.html?store_cat=31311631017" style="text-decoration:none; color:#555;">KLIMT</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Claude-Monet/_i.html?store_cat=31311628017" style="text-decoration:none; color:#555;">MONET</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Vincent-van-Gogh/_i.html?store_cat=31311651017" style="text-decoration:none; color:#555;">VAN GOGH</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Salvador-Dali/_i.html?store_cat=31311648017" style="text-decoration:none; color:#555;">DALI</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Andy-Warhol/_i.html?store_cat=39478753017" style="text-decoration:none; color:#555;">WARHOL</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Pablo-Picasso/_i.html?store_cat=31311639017" style="text-decoration:none; color:#555;">PICASSO</a>
 <br>
 <a href="https://www.ebay.it/str/italianmodernart2009/Artisti-Famosi/_i.html?store_cat=31311596017" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
 </p>
@@ -61,7 +61,7 @@ Spedizioni assicurate in imballaggi rigidi dedicati alle opere d'arte.
 
 <br>
 
-[VAI ALLA HOME DEL NEGOZIO](https://www.ebay.it)
+[VAI ALLA HOME DEL NEGOZIO](https://www.ebay.it/str/italianmodernart2009/)
 
 <br>
 
