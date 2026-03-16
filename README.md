@@ -49,7 +49,7 @@
 <a href="artisti.md" style="text-decoration:none; color:#555;">WARHOL</a> • 
 <a href="artisti.md" style="text-decoration:none; color:#555;">PICASSO</a>
 <br>
-<a href="artisti.md" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
+<a href="https://www.ebay.it/str/italianmodernart2009/Artisti-Famosi/" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
 </p>
 
 ---
