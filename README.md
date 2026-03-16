@@ -1,5 +1,5 @@
 # Stampe su Tela: Idee Originali per il tuo Arredamento
-Benvenuto nella galleria di **30ArtGallery**. Qui trovi ispirazione per trasformare le tue pareti con tele di alta qualità.
+Benvenuto nella galleria di Italian_Modern_Art_2009. Qui trovi ispirazione per trasformare le tue pareti con tele di alta qualità.
 
 ### 🌟 I nostri Best Seller su eBay
 ![Descrizione Stampa 1](link-tua-immagine.jpg)
