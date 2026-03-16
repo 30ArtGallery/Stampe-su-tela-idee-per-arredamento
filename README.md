@@ -1,47 +1,69 @@
-# 🏛️ Italian_Modern_Art_2009 | Fine Art on Canvas
-> **L'eccellenza della stampa su tela: collezioni esclusive, qualità artigianale e design italiano.**
+<div align="center">
+
+# ITALIAN_MODERN_ART_2009
+*Fine Art on Canvas | Made in Italy*
 
 ---
 
 <p align="center">
-  <a href="https://www.ebay.it">
-    <img src="https://img.shields.io" height="40">
+  <a href="https://www.ebay.it" style="text-decoration:none;">
+    <kbd style="background-color: #1a1a1a; color: #ffffff; padding: 10px 20px; border-radius: 5px; border: 1px solid #333;">
+      ENTRA NEL CATALOGO UFFICIALE EBAY
+    </kbd>
   </a>
-  <br>
-  <b>Oltre 1000+ opere d'arte pronte per trasformare i tuoi spazi.</b>
 </p>
 
 ---
 
-## 📂 Esplora le Nostre Collezioni
-*Seleziona una categoria per visualizzare le opere e i link diretti all'acquisto su eBay.*
+## COLLEZIONI PER STILE
 
-
-| 🎨 **STILI E TEMI** | 🏙️ **AMBIENTI E CITTÀ** | 🏛️ **ARTISTI FAMOSI** |
-| :--- | :--- | :--- |
-| 🌀 [Astratti](astratti.md) | 🏙️ [Città del Mondo](citta.md) | 👨‍🎨 [Tutti i Grandi Maestri](artisti.md) |
-| 🏎️ [Motori & Sport](motori.md) | 🌿 [Paesaggi e Natura](paesaggi.md) | 🖼️ [Pop Art](pop-art.md) |
-| 🎸 [Musica](musica.md) | 🌸 [Fiori e Piante](fiori.md) | 📐 [Bauhaus](bauhaus.md) |
-| 🐾 [Animali](animali.md) | 🏮 [Etnici e Africani](etnici.md) | 🎭 [Cinema e Celebrità](cinema.md) |
-| 🧘 [Zen e Sacri](zen.md) | 🍹 [Cocktail e Food](food.md) | 🧸 [Cartoon e Bimbi](bimbi.md) |
+<table style="border:none; border-collapse:collapse; width:100%; text-align:center;">
+  <tr style="border:none;">
+    <td style="border:none; padding:15px;"><a href="astratti.md" style="text-decoration:none; color:#333;">ASTRATTI</a></td>
+    <td style="border:none; padding:15px;"><a href="paesaggi.md" style="text-decoration:none; color:#333;">PAESAGGI</a></td>
+    <td style="border:none; padding:15px;"><a href="motori.md" style="text-decoration:none; color:#333;">MOTORI</a></td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding:15px;"><a href="musica.md" style="text-decoration:none; color:#333;">MUSICA</a></td>
+    <td style="border:none; padding:15px;"><a href="animali.md" style="text-decoration:none; color:#333;">ANIMALI</a></td>
+    <td style="border:none; padding:15px;"><a href="fiori.md" style="text-decoration:none; color:#333;">FIORI E PIANTE</a></td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none; padding:15px;"><a href="pop-art.md" style="text-decoration:none; color:#333;">POP ART</a></td>
+    <td style="border:none; padding:15px;"><a href="cinema.md" style="text-decoration:none; color:#333;">CINEMA</a></td>
+    <td style="border:none; padding:15px;"><a href="bauhaus.md" style="text-decoration:none; color:#333;">BAUHAUS</a></td>
+  </tr>
+</table>
 
 ---
 
-## 👨‍🎨 I Grandi Maestri della Pittura
-*Le opere iconiche riprodotte su tela di alta qualità.*
+## I GRANDI MAESTRI
+*Oltre 40 artisti iconici selezionati per le tue pareti*
 
-> **[Vincent van Gogh](artisti.md#van-gogh) • [Gustav Klimt](artisti.md#klimt) • [Claude Monet](artisti.md#monet) • [Banksy](artisti.md#banksy) • [Leonardo da Vinci](artisti.md#da-vinci) • [Salvador Dalì](artisti.md#dali) • [Andy Warhol](artisti.md#warhol)**
->
-> 👉 *[Sfoglia l'elenco completo degli oltre 40 artisti disponibili](artisti.md)*
-
----
-
-## ✨ Perché scegliere Italian_Modern_Art_2009?
-- **Stampa HD:** Colori brillanti e inchiostri resistenti nel tempo.
-- **Telaio in Legno:** Ogni tela è montata artigianalmente su telai pronti da appendere.
-- **Spedizione Sicura:** Imballaggi rinforzati per una protezione totale.
-
-<p align="center">
-  <br>
-  <a href="https://www.ebay.it"><b>[ VAI AL CATALOGO COMPLETO SU EBAY ]</b></a>
+<p style="line-height: 2.0;">
+<a href="artisti.md" style="text-decoration:none; color:#555;">BANKSY</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">KLIMT</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">MONET</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">VAN GOGH</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">DALI</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">WARHOL</a> • 
+<a href="artisti.md" style="text-decoration:none; color:#555;">PICASSO</a>
+<br>
+<a href="artisti.md" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
 </p>
+
+---
+
+### QUALITÀ E TRADIZIONE
+Ogni opera è realizzata con inchiostri professionali su tela di alta grammatura.
+I telai in legno massello sono montati artigianalmente per garantire una tensione perfetta.
+Spedizioni assicurate in imballaggi rigidi dedicati alle opere d'arte.
+
+<br>
+
+[VAI ALLA HOME DEL NEGOZIO](https://www.ebay.it)
+
+<br>
+
+<sub>© 2026 ITALIAN_MODERN_ART_2009</sub>
+</div>
