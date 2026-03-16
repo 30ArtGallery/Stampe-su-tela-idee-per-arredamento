@@ -19,19 +19,19 @@
 
 <table style="border:none; border-collapse:collapse; width:100%; text-align:center;">
   <tr style="border:none;">
-    <td style="border:none; padding:15px;"><a href="astratti.md" style="text-decoration:none; color:#333;">ASTRATTI</a></td>
-    <td style="border:none; padding:15px;"><a href="paesaggi.md" style="text-decoration:none; color:#333;">PAESAGGI</a></td>
-    <td style="border:none; padding:15px;"><a href="motori.md" style="text-decoration:none; color:#333;">MOTORI</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Astratti/_i.html?store_cat=31311584017" style="text-decoration:none; color:#333;">ASTRATTI</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Paesaggi/_i.html?store_cat=31311591017" style="text-decoration:none; color:#333;">PAESAGGI</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Motori/_i.html?store_cat=31311594017" style="text-decoration:none; color:#333;">MOTORI</a></td>
   </tr>
   <tr style="border:none;">
-    <td style="border:none; padding:15px;"><a href="musica.md" style="text-decoration:none; color:#333;">MUSICA</a></td>
-    <td style="border:none; padding:15px;"><a href="animali.md" style="text-decoration:none; color:#333;">ANIMALI</a></td>
-    <td style="border:none; padding:15px;"><a href="fiori.md" style="text-decoration:none; color:#333;">FIORI E PIANTE</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Musica/_i.html?store_cat=31311590017" style="text-decoration:none; color:#333;">MUSICA</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Animali/_i.html?store_cat=31311593017" style="text-decoration:none; color:#333;">ANIMALI</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Fiori-e-Piante/_i.html?store_cat=31311588017" style="text-decoration:none; color:#333;">FIORI E PIANTE</a></td>
   </tr>
   <tr style="border:none;">
-    <td style="border:none; padding:15px;"><a href="pop-art.md" style="text-decoration:none; color:#333;">POP ART</a></td>
-    <td style="border:none; padding:15px;"><a href="cinema.md" style="text-decoration:none; color:#333;">CINEMA</a></td>
-    <td style="border:none; padding:15px;"><a href="bauhaus.md" style="text-decoration:none; color:#333;">BAUHAUS</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Pop-Art/_i.html?store_cat=38640158017" style="text-decoration:none; color:#333;">POP ART</a></td>
+    <td style="border:none; padding:15px;"><a href="https://www.ebay.it/str/italianmodernart2009/Cinema-e-Celebrita/_i.html?store_cat=31311587017" style="text-decoration:none; color:#333;">CINEMA</a></td>
+    <td style="border:none; padding:15px;"><a href="[bauhaus.md](https://www.ebay.it/str/italianmodernart2009/Bauhaus/_i.html?store_cat=39022460017)" style="text-decoration:none; color:#333;">BAUHAUS</a></td>
   </tr>
 </table>
 
@@ -41,7 +41,7 @@
 *Oltre 40 artisti iconici selezionati per le tue pareti*
 
 <p style="line-height: 2.0;">
-<a href="artisti.md" style="text-decoration:none; color:#555;">BANKSY</a> • 
+<a href="https://www.ebay.it/str/italianmodernart2009/Banksy/_i.html?store_cat=31311625017" style="text-decoration:none; color:#555;">BANKSY</a> • 
 <a href="artisti.md" style="text-decoration:none; color:#555;">KLIMT</a> • 
 <a href="artisti.md" style="text-decoration:none; color:#555;">MONET</a> • 
 <a href="artisti.md" style="text-decoration:none; color:#555;">VAN GOGH</a> • 
@@ -49,7 +49,7 @@
 <a href="artisti.md" style="text-decoration:none; color:#555;">WARHOL</a> • 
 <a href="artisti.md" style="text-decoration:none; color:#555;">PICASSO</a>
 <br>
-<a href="https://www.ebay.it/str/italianmodernart2009/Artisti-Famosi/" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
+<a href="https://www.ebay.it/str/italianmodernart2009/Artisti-Famosi/_i.html?store_cat=31311596017" style="text-decoration:none; color:#888;"><i>Sfoglia l'elenco completo degli artisti</i></a>
 </p>
 
 ---
